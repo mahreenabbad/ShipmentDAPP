@@ -14,7 +14,7 @@
     "next": "14.2.5",
     "react": "^18",
     "react-dom": "^18",
-    "swr": "^2.2.5"
+    
   },
   "devDependencies": {
     "@nomicfoundation/hardhat-toolbox": "^5.0.0",
